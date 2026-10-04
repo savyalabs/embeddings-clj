@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## [0.7.1] - 2026-10-04
+
+### Changed
+
+- Bump `com.microsoft.onnxruntime/onnxruntime` to 1.30.0.
+
 ## [0.7.0] - 2026-08-30
 
 ### Security
