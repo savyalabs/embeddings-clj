@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## [0.7.2] - 2026-11-03
+
+### Changed
+
+- Bump dependencies: onnxruntime 1.31.1, tokenizers-clj 0.11.1.
+
 ## [0.7.1] - 2026-10-04
 
 ### Changed
