@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## [0.7.3] - 2026-11-10
+
+### Changed
+
+- Bump tokenizers-clj to 0.11.2.
+
 ## [0.7.2] - 2026-11-03
 
 ### Changed

@@ -18,13 +18,13 @@ hosted OpenAI, Cohere, and Voyage models.
 deps.edn:
 
 ```clojure
-net.clojars.savya/embeddings-clj {:mvn/version "0.7.2"}
+net.clojars.savya/embeddings-clj {:mvn/version "0.7.3"}
 ```
 
 Leiningen:
 
 ```clojure
-[net.clojars.savya/embeddings-clj "0.7.2"]
+[net.clojars.savya/embeddings-clj "0.7.3"]
 ```
 
 The library parses JSON with the declared `org.clojure/data.json` dependency. It
