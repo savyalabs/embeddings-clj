@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## [0.7.4] - 2026-11-16
+
+### Changed
+
+- Bump onnxruntime to 1.32.0.
+
 ## [0.7.3] - 2026-11-10
 
 ### Changed
